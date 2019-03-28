@@ -1,0 +1,76 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 27-mar-2019, 21:36:30
+    Author     : cetecom
+*/
+
+.caja{
+    width:10%;
+    height: 20%;
+    align-content: center;
+    text-align: center;
+    margin: 0 auto;
+    background: #3485DB;
+    color:white;
+}
+
+
+#ing{
+    width:10%;
+    height: 20%;
+    margin: 30px;
+     background: #3485DB;
+}
+
+#inf{
+    width:10%;
+    height: 20%;
+    background: #3485DB;
+}
+
+#cons{
+    width:10%;
+    height: 20%;
+    background: #3485DB;
+}
+
+#pro1{
+    width:10%;
+    height: 20%;
+    background: #3485DB;
+}
+
+
+#vta2{
+    width:10%;
+    height: 20%;
+    background: #3485DB;
+}
+
+#pro2{
+    width:10%;
+    height: 20%;
+    background: #3485DB;
+    
+}
+
+#vta3{
+    width:10%;
+    height: 20%;
+    background: #3485DB;
+}
+
+#bdga{
+    width:10%;
+    height: 20%;
+    background: #3485DB;
+}
+
+
+
+
+
